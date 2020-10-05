@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="masukkan_dua_angka">Masukkan Dua Angka</string>
+    <string name="hasil">Hasil</string>
+    <string name="_0">0</string>
+    <string name="bersihkan">Bersihkan</string>
+</resources>
